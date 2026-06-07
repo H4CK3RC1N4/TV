@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1, LINK1
-http://www.premiumiptvmk.com:8080/osec/c5176e377c82/
