@@ -1,0 +1,548 @@
+http://universeiptv.com:8000/get.php?username=alexaiptv&password=hvsfw2yfgwu&type=m3u
+
+
+
+
+#EXTINF:-1,=======> ex-Yu <=======
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7503
+#EXTINF:-1,EX YU: CINEMAX 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3551
+#EXTINF:-1,EX YU: CINEMAX-2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3550
+#EXTINF:-1,EX YU: DOMA-TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3546
+#EXTINF:-1,EX YU: HBO 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4011
+#EXTINF:-1,EX YU: HISTORY CHANNEL
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3543
+#EXTINF:-1,EX YU: HRT 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3541
+#EXTINF:-1,EX YU: RTL 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3558
+#EXTINF:-1,EX YU: NOVA TV HR
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3538
+#EXTINF:-1,EX YU: Happy tv
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4091
+#EXTINF:-1,EX YU: HRT 4
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3539
+#EXTINF:-1,EX YU: HBO 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3545
+#EXTINF:-1,EX-YU: BHT
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3552
+#EXTINF:-1,EX-YU: ANIMAL PLANET
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3593
+#EXTINF:-1,EX-YU: PINK 3(1)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3562
+#EXTINF:-1,EX YU: HBO Adria
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3544
+#EXTINF:-1,EX-YU: Cinestar Premier 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3556
+#EXTINF:-1,EX-YU: Cinestar Premiere 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3534
+#EXTINF:-1,EX-YU: BN SAT
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4347
+#EXTINF:-1,EX-YU: BN
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4348
+#EXTINF:-1,EX YU: HRT 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3540
+#EXTINF:-1,EX-YU: Eurosport 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3528
+#EXTINF:-1,EX-YU: Eurosport 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3527
+#EXTINF:-1,EX-YU: FOX
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3519
+#EXTINF:-1,EX-YU: FACE TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3526
+#EXTINF:-1,EX-YU: Discovery
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3529
+#EXTINF:-1,EX YU: RTL
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3559
+#EXTINF:-1,EX-YU: FilmBox Extra
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3520
+#EXTINF:-1,EX-YU: Fightbox
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3523
+#EXTINF:-1,EX-YU: Fox Crime
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3518
+#EXTINF:-1,EX-YU: Fox Life
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3516
+#EXTINF:-1,EX-YU: Federalna TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3524
+#EXTINF:-1,EX-YU: Al Jazeera Balkan
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3608
+#EXTINF:-1,EX-YU: GRAND TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4390
+#EXTINF:-1,EX-YU: HAYAT
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4346
+#EXTINF:-1,EX-YU: HAYAT FOLK
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4345
+#EXTINF:-1,EX-YU: HAYAT PLUS
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4344
+#EXTINF:-1,EX-YU: Fox Movies
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3517
+#EXTINF:-1,EX-YU: BHT 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4349
+#EXTINF:-1,EX-YU: KCN 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3592
+#EXTINF:-1,EX-YU: KCN 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3591
+#EXTINF:-1,EX-YU: KCN 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3590
+#EXTINF:-1,EX-YU: HRT 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3542
+#EXTINF:-1,EX-YU: BN Music
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3549
+#EXTINF:-1,EX-YU: LOV I RIBOLOV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3588
+#EXTINF:-1,EX-YU: MGM
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3587
+#EXTINF:-1,EX-YU: KLASIK TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3589
+#EXTINF:-1,EX-YU: Cinestar Action
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3555
+#EXTINF:-1,EX-YU: MTV Adria
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3579
+#EXTINF:-1,EX-YU: MRT 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3581
+#EXTINF:-1,EX-YU: MRTV 3 MK
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3580
+#EXTINF:-1,EX-YU: MRT 1 (local)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3582
+#EXTINF:-1,EX-YU: CMC
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3533
+#EXTINF:-1,EX-YU: Mini TV HR
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3584
+#EXTINF:-1,EX-YU: Mini TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3585
+#EXTINF:-1,EX-YU: MTV Igman
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3578
+#EXTINF:-1,EX-YU: DM Sat
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4092
+#EXTINF:-1,EX-YU: Sportska TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3606
+#EXTINF:-1,EX-YU: National Geographic
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3536
+#EXTINF:-1,EX-YU: Nickelodeon
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3535
+#EXTINF:-1,EX-YU: NOVA RS pub
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4343
+#EXTINF:-1,EX-YU: NOVA TV HR
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4342
+#EXTINF:-1,EX-YU: OBN
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4187
+#EXTINF:-1,EX-YU: Pink & Roll
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3515
+#EXTINF:-1,EX-YU: Pink 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3560
+#EXTINF:-1,EX-YU: Pink 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3561
+#EXTINF:-1,EX-YU: PINK 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3513
+#EXTINF:-1,EX-YU: Pink Action
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3563
+#EXTINF:-1,EX-YU: Pink BH
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3577
+#EXTINF:-1,EX-YU: Pink Comedy
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3512
+#EXTINF:-1,EX-YU: Pink Crime & Mistery
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3531
+#EXTINF:-1,EX-YU: Pink Crime & Mystery
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3576
+#EXTINF:-1,EX-YU: Pink Extra
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3565
+#EXTINF:-1,EX-YU: Pink Film
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3566
+#EXTINF:-1,EX-YU: Pink Folk
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3510
+#EXTINF:-1,EX-YU: Pink Folk 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3509
+#EXTINF:-1,EX-YU: Pink Hits 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3508
+#EXTINF:-1,EX-YU: Pink Horror
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3567
+#EXTINF:-1,EX-YU: Pink Kids
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3507
+#EXTINF:-1,EX-YU: Pink Koncert
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3506
+#EXTINF:-1,EX-YU: Pink Kuvar
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3505
+#EXTINF:-1,EX-YU: Pink M
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3504
+#EXTINF:-1,EX-YU: Pink Movies
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3568
+#EXTINF:-1,EX-YU: Pink Music
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3503
+#EXTINF:-1,EX-YU: Pink Music 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3502
+#EXTINF:-1,EX-YU: Pink Pedia
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3569
+#EXTINF:-1,EX-YU: Pink Plus
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3501
+#EXTINF:-1,EX-YU: Pink Premium
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3575
+#EXTINF:-1,EX-YU: Pink Reality
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3574
+#EXTINF:-1,EX-YU: Pink Romance
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3572
+#EXTINF:-1,EX-YU: Pink Sci-Fi & Fantasy
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3573
+#EXTINF:-1,EX-YU: Pink Sci-Fi&Fantasy
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3500
+#EXTINF:-1,EX-YU: Pink Serije
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3564
+#EXTINF:-1,EX-YU: Pink Show
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3499
+#EXTINF:-1,EX-YU: Pink Soap
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3498
+#EXTINF:-1,EX-YU: Pink Super Kids
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3497
+#EXTINF:-1,EX-YU: Pink Thriller
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3571
+#EXTINF:-1,EX-YU: Pink Western
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3570
+#EXTINF:-1,EX-YU: Pink World
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3496
+#EXTINF:-1,EX-YU: Pink Zabava
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3495
+#EXTINF:-1,EX-YU: Prva
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4341
+#EXTINF:-1,EX-YU: Prva Plus
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3553
+#EXTINF:-1,EX-YU: RTS 1 (local)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3599
+#EXTINF:-1,EX-YU: RTS 2 (local)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3598
+#EXTINF:-1,EX-YU: RTS 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3597
+#EXTINF:-1,EX-YU: RTS HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3596
+#EXTINF:-1,EX-YU: RTV BANOVINA
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3595
+#EXTINF:-1,EX-YU: RTV Zenica
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3594
+#EXTINF:-1,EX-YU: Sport Klub 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3605
+#EXTINF:-1,EX-YU: Sport Klub 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3604
+#EXTINF:-1,EX-YU: Sport Klub 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3603
+#EXTINF:-1,EX-YU: SPORTKLUB 4 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3602
+#EXTINF:-1,EX-YU: SPORTKLUB 5 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3601
+#EXTINF:-1,EX-YU: SPORTKLUB 6 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3600
+#EXTINF:-1,EX-YU: N1 Bosna
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4406
+#EXTINF:-1,EX-YU: Nat Geo Wild
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3537
+
+
+
+
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+#EXTM3U
+#EXTINF:-1,AL: Super sport 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/407
+#EXTINF:-1,SR: Supersport 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/406
+#EXTINF:-1,SR: Supersport 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/405
+#EXTINF:-1,SR: Arenasport 5 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/404
+#EXTINF:-1,SR: Arenasport 4 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/403
+#EXTINF:-1,SR: Arenasport 3 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/402
+#EXTINF:-1,EX-YU: Arena sport 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/401
+#EXTINF:-1,SR: Arenasport 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/400
+#EXTINF:-1,AR VIP: Bein Sport 1 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5986
+#EXTINF:-1,AR VIP: Bein Sport 10 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5995
+#EXTINF:-1,AR VIP: Bein Sport 11 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5996
+#EXTINF:-1,AR VIP: Bein Sport 12 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5997
+#EXTINF:-1,AR VIP: Bein Sport 2 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5987
+#EXTINF:-1,AR VIP: Bein Sport 3 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5988
+#EXTINF:-1,AR VIP: Bein Sport 4 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5989
+#EXTINF:-1,AR VIP: Bein Sport 5 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5990
+#EXTINF:-1,AR VIP: Bein Sport 6 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5991
+#EXTINF:-1,AR VIP: Bein Sport 7 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5992
+#EXTINF:-1,AR VIP: Bein Sport 8 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5993
+#EXTINF:-1,AR VIP: Bein Sport 9 HD (Backup)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5994
+#EXTINF:-1,VIP SG: FOX SPORTS 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5983
+#EXTINF:-1,AL: AL K SPORT1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7369
+#EXTINF:-1,AL: AL K SPORT2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7370
+#EXTINF:-1,AL: AL K SPORT3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7371
+#EXTINF:-1,AL: AL K SPORT4
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7372
+#EXTINF:-1,AL : SuperSport 6
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3403
+#EXTINF:-1,AL : SuperSport 5
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3404
+#EXTINF:-1,AL : SuperSport 4
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3405
+#EXTINF:-1,AL : SuperSport 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3406
+#EXTINF:-1,AL: Super Sport Kosovo 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/2127
+#EXTINF:-1,AL: Super Sport Kosovo 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/2128
+#EXTINF:-1,AL: Super Sport 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/2129
+#EXTINF:-1,AL: Super Sport 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/2130
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 10 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6939
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 8 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6937
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) 9 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6938
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6859
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6860
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 3
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6861
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 4
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6862
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 5
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6863
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 6
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6864
+#EXTINF:-1,VIP AR: BEIN SPORT (Backup2) HD 7
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6865
+#EXTINF:-1,SW: Teleclub Sport 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7311
+#EXTINF:-1,SW: Teleclub Sport 1 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7310
+#EXTINF:-1,SW: Teleclub Sport 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7309
+#EXTINF:-1,SW: Teleclub Sport 2 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7308
+#EXTINF:-1,SW: Teleclub Sport 3 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7307
+#EXTINF:-1,SW: Teleclub Sport 3 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7306
+#EXTINF:-1,FR: Bein Sport Max 9
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5622
+#EXTINF:-1,FR: Bein Sport Max 8
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5621
+#EXTINF:-1,FR: Bein Sport Max 7
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5620
+#EXTINF:-1,FR: Bein Sport Max 6
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5619
+#EXTINF:-1,FR: Bein Sport Max 5
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5618
+#EXTINF:-1,FR: Bein Sport Max 10
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/5623
+#EXTINF:-1,DE: Sky Sport News HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/447
+#EXTINF:-1,DE: Sky Sport 9 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3075
+#EXTINF:-1,DE: Sky Sport 8 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3074
+#EXTINF:-1,DE: Sky Sport 7 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3073
+#EXTINF:-1,DE: Sky Sport 6 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3072
+#EXTINF:-1,DE: Sky Sport 5 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3071
+#EXTINF:-1,DE: Sky Sport 4 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3070
+#EXTINF:-1,DE: Sky Sport 3 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3069
+#EXTINF:-1,DE: Sky Sport 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/410
+#EXTINF:-1,DE: Sky Sport 11 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3077
+#EXTINF:-1,DE: Sky Sport 10 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3076
+#EXTINF:-1,DE: Sky Sport 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/409
+#EXTINF:-1,DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3085
+#EXTINF:-1,DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3084
+#EXTINF:-1,DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3083
+#EXTINF:-1,DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3082
+#EXTINF:-1,DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3081
+#EXTINF:-1,DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3080
+#EXTINF:-1,DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3078
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3079
+#EXTINF:-1,DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3086
+#EXTINF:-1,DE: Sky Bundesliga 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/408
+#EXTINF:-1,VIP DE: Sky Sport 1 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6746
+#EXTINF:-1,VIP DE: Sky Sport 10 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6755
+#EXTINF:-1,VIP DE: Sky Sport 11 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6756
+#EXTINF:-1,VIP DE: Sky Sport 2 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6747
+#EXTINF:-1,VIP DE: Sky Sport 3 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6748
+#EXTINF:-1,VIP DE: Sky Sport 4 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6749
+#EXTINF:-1,VIP DE: Sky Sport 5 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6750
+#EXTINF:-1,VIP DE: Sky Sport 6 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6751
+#EXTINF:-1,VIP DE: Sky Sport 7 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6752
+#EXTINF:-1,VIP DE: Sky Sport 8 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6753
+#EXTINF:-1,VIP DE: Sky Sport 9 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6754
+#EXTINF:-1,VIP DE: Sky Sport News HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6745
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6794
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6803
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD (1080P)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6795
+#EXTINF:-1,DE: Sport 1 US
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6982
+#EXTINF:-1,DE: Sport 1+ HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6980
+#EXTINF:-1,DE: Sport Digital HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6981
+#EXTINF:-1,DE: Sport 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/511
+#EXTINF:-1,DE: Sky Sport Austria(1)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/931
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 9 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3630
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 8 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3629
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 7 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3628
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 6 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3627
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 5 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3626
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 4 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3625
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 3 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3624
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3623
+#EXTINF:-1,DE: Sky Germany BUNDESLIGA 10 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3631
+#EXTINF:-1,IT: Sky Sport3 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/235
+#EXTINF:-1,IT: Sky Sport2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/236
+#EXTINF:-1,IT: Sky Sport1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/237
+#EXTINF:-1,IT: Sky Sport F1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/188
+#EXTINF:-1,IT: Sky Sport 24 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/234
+#EXTINF:-1,IT: Sky Moto GP HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/238
+#EXTINF:-1,IT: Rai Sport2
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/197
+#EXTINF:-1,IT: Rai Sport 1
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/198
+#EXTINF:-1,UK: Sky Sport F1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/443
+#EXTINF:-1,UK: Sky Sport 1 SD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/1922
+#EXTINF:-1,UK: SKY One
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/422
+#EXTINF:-1,UK : Sky Movies Drama
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/427
+#EXTINF:-1,UK: SKY Atlantic HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/428
+#EXTINF:-1,UK: Sky Arts
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/429
+#EXTINF:-1,UK: Nat Geo Graphic
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/431
+#EXTINF:-1,UK: Mototrs TV
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/1029
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/26
+#EXTINF:-1,UK: Sky Sport News
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/16
+#EXTINF:-1,UK: SKY SPORTS PREMIER LEAGUE HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/18
+#EXTINF:-1,UK: SKY SPORTS GOLF HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/20
+#EXTINF:-1,UK: SKY SPORTS ACTION HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/22
+#EXTINF:-1,UK: SKY SPORTS CRICKET HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/24
+#EXTINF:-1,UK: Sky Movies Thriller
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/54
+#EXTINF:-1,UK: Sky Movies Showcase
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/55
+#EXTINF:-1,UK: Sky Movies Premiere
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/56
+#EXTINF:-1,UK: Sky Movies Greats
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/57
+#EXTINF:-1,UK: Sky Movies Family
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/58
+#EXTINF:-1,UK: Sky Movies Disney
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/59
+#EXTINF:-1,UK: Sky Movies Comedy
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/60
+#EXTINF:-1,UK: Sky Movies Action
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/61
+#EXTINF:-1,UK: Sky Movie Sci-Fi
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/62
+#EXTINF:-1,UK | BT Sport Europe HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/3
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/4
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/6
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/8
+#EXTINF:-1,DE: Sky Sport 1 HD 1080P
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7524
+#EXTINF:-1,DE: Sky Sport 2 HD 1080P
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7523
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD 1080P
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7534
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 HD 1080P
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7532
+#EXTINF:-1,DE: Sky Sport News HD 1080P
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7513
+#EXTINF:-1,ES: Real Madrid Channel
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7680
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7682
+#EXTINF:-1,UK: RANGERS FC TV (matchtime)
+http://iptv-line.com:7899/contact@ssl-mail.com/adfhgfgjhgk/7681
+
+
+
+
+http://163.172.107.169:8000/get.php?username=DErzjYy0iL&password=o4h7T5X41o&type=m3u
+
