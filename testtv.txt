@@ -1,0 +1,32 @@
+#EXTINF:-1,--- R E A L I T Y ---
+http://95.211.168.42:8000/live/tomi/tomi/1286.ts
+#EXTINF:-1,BIG BROTHER HRVATSKA 
+http://149.202.199.186:8000/live/Soba1/Soba1/276.ts
+#EXTINF:-1,BIG BROTHER CROATIA 
+http://84.20.250.211:8000/live/kralj/kralj/1000.ts
+#EXTINF:-1,PINK WORLD CINEMA
+http://185.73.21.36:8080/stream/?channel=pinkworldcinema&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK SHOW
+http://185.73.21.36:8080/stream/?channel=pinkshow&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK PREMIUM
+http://185.73.21.36:8080/stream/?channel=pinkpremium&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK MOVIES
+http://185.73.21.36:8080/stream/?channel=pinkmovies&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK HORROR
+http://185.73.21.36:8080/stream/?channel=pinkhorror&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK ACTION
+http://185.73.21.36:8080/stream/?channel=pinkaction&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK THRILLER
+http://185.73.21.36:8080/stream/?channel=pinkthriller&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK CRIME AND MYSTERY
+http://185.73.21.36:8080/stream/?channel=pinkcrimeandmystery&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK COMEDY
+http://185.73.21.36:8080/stream/?channel=pinkcomedy&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK CLASSIC
+http://185.73.21.36:8080/stream/?channel=pinkclassic&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK WESTERN
+http://185.73.21.36:8080/stream/?channel=pinkwestern&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK SCI-FI AND FANTASY
+http://185.73.21.36:8080/stream/?channel=pinkscifi&stream=1mb?auth=vod&user=34341
+#EXTINF:-1,PINK ROMANCE
+http://185.73.21.36:8080/stream/?channel=pinkromance&stream=1mb?auth=vod&user=34341
